@@ -1,46 +1,39 @@
 <div align="center">
 
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Stanly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Gateway%20%20%F0%9F%A4%96%20%20API%20Builder&descSize=18&descAlignY=52" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Stanly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20%E7%BD%91%E5%85%B3%20%C2%B7%20API%20%E6%9E%84%E5%BB%BA&descSize=18&descAlignY=52" />
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+Gateways+%26+API+Proxies;Turning+LLM+endpoints+into+OpenAI-compatible+APIs;Codex+%2F+Claude+Code+%2F+Gemini+ecosystem+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E6%9E%84%E5%BB%BA+AI+%E7%BD%91%E5%85%B3%EF%BC%8C%E7%BB%9F%E4%B8%80+API+%E5%87%BA%E5%8F%A3;%E5%B0%86+LLM+%E6%9C%8D%E5%8A%A1%E8%BD%AC%E4%B8%BA+OpenAI+%E5%85%BC%E5%AE%B9%E6%8E%A5%E5%8F%A3;Codex+%2F+Claude+Code+%2F+Gemini+%E7%94%9F%E6%80%81%E5%B7%A5%E5%85%B7" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-StanlySGY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StanlySGY)
 
 </div>
 
 ---
 
-### What I Build
+### 核心项目
 
-Turn AI services into **unified, OpenAI-compatible APIs** — with multi-account load balancing, streaming, and tool calling out of the box.
+将各类 AI 服务转为 **统一的 OpenAI 兼容 API** — 多账号负载均衡、流式输出、工具调用，开箱即用。
 
-| Project | What It Does |
-|---------|-------------|
-| [**axonhub**](https://github.com/StanlySGY/axonhub) | Unified AI Gateway — OpenAI / Anthropic / Gemini / AI SDK compatible |
-| [**grok2api**](https://github.com/StanlySGY/grok2api_new) | Grok Web → OpenAI API · Multi-account rotation · Multi-turn context · Admin dashboard |
-| [**gemini-business2api**](https://github.com/StanlySGY/gemini-business2api) | Gemini Business → OpenAI API · Multi-account load balancing · Image generation |
-| [**ds2api**](https://github.com/StanlySGY/ds2api) | Deepseek Client → OpenAI API · Multi-account polling · Vercel/Docker deploy · Tool calling |
-| [**assistant-2api**](https://github.com/StanlySGY/assistant-2api) | assistant-ui.com → OpenAI API · Streaming · Vision · 5 models |
-| [**Codex-Manager**](https://github.com/StanlySGY/Codex-Manager) | Codex CLI account pool management with auto-switching |
-
----
-
-### Also Working On
-
-- [**LegalDocGen**](https://github.com/StanlySGY/LegalDocGen) — Legal document generation platform
-- [**mineru-batch**](https://github.com/StanlySGY/mineru-batch) ⭐ — Batch PDF processing with MinerU
-- [**Wegent**](https://github.com/StanlySGY/Wegent) — AI-native OS for intelligent agent teams
+| 项目 | 简介 |
+|------|------|
+| [**axonhub**](https://github.com/StanlySGY/axonhub) | 统一 AI 网关 — 兼容 OpenAI / Anthropic / Gemini / AI SDK |
+| [**grok2api**](https://github.com/StanlySGY/grok2api_new) | Grok 网页端 → OpenAI API · 多号轮询 · 多轮对话 · 管理后台 |
+| [**gemini-business2api**](https://github.com/StanlySGY/gemini-business2api) | Gemini Business → OpenAI API · 多账号负载均衡 · 图像生成 |
+| [**ds2api**](https://github.com/StanlySGY/ds2api) | Deepseek 客户端 → OpenAI API · 多号轮询 · Vercel/Docker 部署 · Tool Calling |
+| [**assistant-2api**](https://github.com/StanlySGY/assistant-2api) | assistant-ui.com → OpenAI API · 流式输出 · 视觉 · 5 模型 |
+| [**Codex-Manager**](https://github.com/StanlySGY/Codex-Manager) | Codex CLI 账号池管理与自动切换 |
 
 ---
 
-### Tech Stack
+### 其他项目
+
+- [**LegalDocGen**](https://github.com/StanlySGY/LegalDocGen) — 法律文书生成平台
+- [**mineru-batch**](https://github.com/StanlySGY/mineru-batch) ⭐ — MinerU 批量 PDF 解析
+- [**Wegent**](https://github.com/StanlySGY/Wegent) — AI 原生操作系统，定义与运行智能体团队
+
+---
+
+### 技术栈
 
 <div align="center">
 
