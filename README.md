@@ -8,9 +8,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=StanlySGY&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=c77dff&text_color=8b949e&ring_color=9d4edd" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=StanlySGY&theme=radical&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd&sideLabels=8b949e&dates=555555" height="160" />
+<img src="https://streak-stats.demolab.com?user=StanlySGY&theme=radical&hide_border=true&background=0d1117&ring=9d4edd&fire=c77dff&currStreakLabel=9d4edd&sideLabels=8b949e&dates=555555" height="160" />
 
 </div>
 
