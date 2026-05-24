@@ -24,7 +24,7 @@
 
 ## 👋 关于我
 
-我是 **StanlySGY**，一个专注于 LLM 网关、API 兼容层、账号调度和 Agent 开发工作流的 AI vibecodinger。
+我是 **StanlySGY**，专注于 LLM 网关、OpenAI 兼容 API、模型账号调度和 Agent 开发工作流。
 
 我更关注把不同 AI 服务整理成 **统一、稳定、OpenAI 兼容** 的接口，让它们可以直接接入现有 SDK、客户端、自动化工具和开发者工作流。
 
@@ -41,6 +41,8 @@ LLM 服务 → OpenAI 兼容 API → 网关 / 代理 / Agent 工具链
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 🧠 AI Gateway Matrix
+
+围绕 OpenAI 兼容接口、模型路由、账号调度和 Agent 工具链，我会持续实践、适配和维护这些 AI Gateway 相关项目。
 
 <table>
 <tr>
@@ -112,7 +114,7 @@ Codex CLI 账号池管理与自动切换工具。
 | 项目 | 简介 |
 |:--|:--|
 | [**mineru-batch**](https://github.com/StanlySGY/mineru-batch) ![Stars](https://img.shields.io/github/stars/StanlySGY/mineru-batch?style=social) ![Vue](https://img.shields.io/badge/Vue-4ADE80?style=flat-square) | 基于 MinerU 的批量 PDF 解析工作流 |
-| [**LegalDocGen**](https://github.com/StanlySGY/LegalDocGen) ![Stars](https://img.shields.io/github/stars/StanlySGY/LegalDocGen?style=social) ![TypeScript](https://img.shields.io/badge/TypeScript-60A5FA?style=flat-square) | 法律文书生成平台 |
+| [**LegalDocGen**](https://github.com/StanlySGY/LegalDocGen) ![Stars](https://img.shields.io/github/stars/StanlySGY/LegalDocGen?style=social) ![Python](https://img.shields.io/badge/Python-FACC15?style=flat-square) | 法律文书生成平台 |
 | [**Wegent**](https://github.com/StanlySGY/Wegent) ![Stars](https://img.shields.io/github/stars/StanlySGY/Wegent?style=social) | 用于定义和运行智能体团队的 AI 原生系统 |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
@@ -130,12 +132,6 @@ Codex CLI 账号池管理与自动切换工具。
 ## 📊 GitHub 数据
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=StanlySGY&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=C9D1D9" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanlySGY&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=C9D1D9" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=StanlySGY&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=C9D1D9&dates=6B7280" />
 
