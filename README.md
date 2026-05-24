@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:241B4D,70:5B21B6,100:9D4EDD&height=260&section=header&text=StanlySGY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=AI%20Vibecodinger%20%C2%B7%20Unified%20AI%20Gateways%20%C2%B7%20Model%20Scheduling%20%26%20Agents&descSize=18&descAlignY=55&descColor=C9D1D9" />
+<h1>StanlySGY</h1>
+
+<p><strong>AI Vibecodinger · Unified AI Gateways · Model Scheduling & Agents</strong></p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=860&height=90&lines=AI+Vibecodinger;Building+Unified+AI+Gateways;Model+Scheduling+%26+Agents;OpenAI-Compatible+Infrastructure" alt="Typing SVG" />
@@ -15,7 +17,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 <div align="center">
 
@@ -27,7 +29,7 @@ Building useful AI infrastructure, one interface at a time.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 ## About
 
@@ -73,7 +75,7 @@ LLM Services → OpenAI-Compatible API → Gateway / Proxy / Agent Tooling
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 ## Featured Projects
 
@@ -112,7 +114,7 @@ LLM Services → OpenAI-Compatible API → Gateway / Proxy / Agent Tooling
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 ## AI Gateway Lab
 
@@ -211,7 +213,7 @@ Codex CLI 账号池管理与自动切换工具。
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 ## Tech Stack
 
@@ -234,7 +236,7 @@ Codex CLI 账号池管理与自动切换工具。
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 ## Data Stats
 
@@ -249,7 +251,7 @@ Codex CLI 账号池管理与自动切换工具。
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 ## Current Focus
 
@@ -270,7 +272,7 @@ Claude Code / Codex / Gemini Automation
 >
 > 让 AI 服务更容易被连接、路由和自动化。
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+---
 
 <div align="center">
 
@@ -278,6 +280,5 @@ Claude Code / Codex / Gemini Automation
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:241B4D,70:5B21B6,100:9D4EDD&height=120&section=footer" />
 
 </div>
