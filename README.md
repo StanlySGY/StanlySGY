@@ -12,7 +12,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 👋 关于我
 
@@ -38,7 +38,7 @@ LLM 服务 → OpenAI 兼容 API → 网关 / 代理 / Agent 工具链
 - 🧠 探索 Claude Code、Codex、Gemini、Grok 相关开发工作流
 - 🛠 偏好简单、实用、可部署的工具，而不是过度设计的系统
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 🧠 AI Gateway Matrix
 
@@ -46,78 +46,76 @@ LLM 服务 → OpenAI 兼容 API → 网关 / 代理 / Agent 工具链
 <tr>
 <td width="50%">
 
-### 🔌 axonhub
+### 🔌 [axonhub](https://github.com/StanlySGY/axonhub)
 
 统一 AI 网关，兼容 OpenAI、Anthropic、Gemini 与 AI SDK。
 
-`gateway` `routing` `openai-compatible` `multi-provider`
+![Stars](https://img.shields.io/github/stars/StanlySGY/axonhub?style=social) ![Language](https://img.shields.io/github/languages/top/StanlySGY/axonhub?color=9D4EDD&style=flat-square)
 
 </td>
 <td width="50%">
 
-### 🤖 grok2api
+### 🤖 [grok2api](https://github.com/StanlySGY/grok2api_new)
 
 将 Grok 网页端能力转换为 OpenAI 兼容 API。
 
-`grok` `api-proxy` `account-rotation` `streaming`
+![Stars](https://img.shields.io/github/stars/StanlySGY/grok2api_new?style=social) ![Language](https://img.shields.io/github/languages/top/StanlySGY/grok2api_new?color=9D4EDD&style=flat-square)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 💎 gemini-business2api
+### 💎 [gemini-business2api](https://github.com/StanlySGY/gemini-business2api)
 
 Gemini Business 转 OpenAI 兼容 API，支持多账号负载均衡。
 
-`gemini` `business` `load-balancing` `image-generation`
+![Stars](https://img.shields.io/github/stars/StanlySGY/gemini-business2api?style=social) ![Language](https://img.shields.io/github/languages/top/StanlySGY/gemini-business2api?color=9D4EDD&style=flat-square)
 
 </td>
 <td width="50%">
 
-### 🐍 ds2api
+### 🐍 [ds2api](https://github.com/StanlySGY/ds2api)
 
 DeepSeek 客户端转 OpenAI 兼容 API，支持 Vercel / Docker 部署。
 
-`deepseek` `vercel` `docker` `tool-calling`
+![Stars](https://img.shields.io/github/stars/StanlySGY/ds2api?style=social) ![Language](https://img.shields.io/github/languages/top/StanlySGY/ds2api?color=9D4EDD&style=flat-square)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 🎙 assistant-2api
+### 🎙 [assistant-2api](https://github.com/StanlySGY/assistant-2api)
 
 assistant-ui.com 转 OpenAI 兼容 API，支持流式输出与视觉能力。
 
-`assistant-ui` `vision` `streaming` `multi-model`
+![Stars](https://img.shields.io/github/stars/StanlySGY/assistant-2api?style=social) ![Language](https://img.shields.io/github/languages/top/StanlySGY/assistant-2api?color=9D4EDD&style=flat-square)
 
 </td>
 <td width="50%">
 
-### ⚙️ Codex-Manager
+### ⚙️ [Codex-Manager](https://github.com/StanlySGY/Codex-Manager)
 
 Codex CLI 账号池管理与自动切换工具。
 
-`codex` `cli` `account-pool` `automation`
+![Stars](https://img.shields.io/github/stars/StanlySGY/Codex-Manager?style=social) ![Language](https://img.shields.io/github/languages/top/StanlySGY/Codex-Manager?color=9D4EDD&style=flat-square)
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 🚀 代表项目
 
 | 项目 | 简介 |
 |:--|:--|
-| [**mineru-batch**](https://github.com/StanlySGY/mineru-batch) | 基于 MinerU 的批量 PDF 解析工作流 |
-| [**LegalDocGen**](https://github.com/StanlySGY/LegalDocGen) | 法律文书生成平台 |
-| [**Wegent**](https://github.com/StanlySGY/Wegent) | 用于定义和运行智能体团队的 AI 原生系统 |
+| [**mineru-batch**](https://github.com/StanlySGY/mineru-batch) ![Stars](https://img.shields.io/github/stars/StanlySGY/mineru-batch?style=social) ![Vue](https://img.shields.io/badge/Vue-4ADE80?style=flat-square) | 基于 MinerU 的批量 PDF 解析工作流 |
+| [**LegalDocGen**](https://github.com/StanlySGY/LegalDocGen) ![Stars](https://img.shields.io/github/stars/StanlySGY/LegalDocGen?style=social) ![TypeScript](https://img.shields.io/badge/TypeScript-60A5FA?style=flat-square) | 法律文书生成平台 |
+| [**Wegent**](https://github.com/StanlySGY/Wegent) ![Stars](https://img.shields.io/github/stars/StanlySGY/Wegent?style=social) | 用于定义和运行智能体团队的 AI 原生系统 |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 🛠 技术栈
 
@@ -125,23 +123,9 @@ Codex CLI 账号池管理与自动切换工具。
 
 <img src="https://skillicons.dev/icons?i=python,ts,vue,go,docker,vercel,cloudflare,linux,github,git" />
 
-<br/>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vue.js&logoColor=4ADE80)
-![Go](https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=38BDF8)
-
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA)
-![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F97316)
-![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=10B981)
-![Anthropic](https://img.shields.io/badge/Anthropic-111827?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 📊 GitHub 数据
 
@@ -157,7 +141,17 @@ Codex CLI 账号池管理与自动切换工具。
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+
+## 🏆 Profile Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=StanlySGY&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=5" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## 🧩 当前关注
 
@@ -171,15 +165,15 @@ Agent 团队工作流
 Claude Code / Codex / Gemini 自动化
 ```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 ## ⚡ 开发理念
 
-> 做小而实用、可部署、可接入的工具。  
-> 接口保持简单，能力保持稳定。  
+> 做小而实用、可部署、可接入的工具。
+> 接口保持简单，能力保持稳定。
 > 让 AI 服务更容易被连接、路由和自动化。
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
 
 <div align="center">
 
