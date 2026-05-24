@@ -2,6 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=StanlySGY&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Vibecodinger%20|%20AI%20Gateways%20|%20Model%20Scheduling&descAlignY=55&descAlign=50" />
 </div>
 
+<p align="center">
+  <em>"Building useful AI infrastructure, one interface at a time."</em>
+</p>
+
+<p align="center">
+  <a href="mailto:s550427800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/StanlySGY">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
