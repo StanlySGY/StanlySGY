@@ -1,14 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:241B4D,70:5B21B6,100:9D4EDD&height=260&section=header&text=StanlySGY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=AI%20Gateway%20Builder%20%C2%B7%20OpenAI-Compatible%20API%20%C2%B7%20Agent%20Workflow%20Automation&descSize=18&descAlignY=55&descColor=C9D1D9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:241B4D,70:5B21B6,100:9D4EDD&height=260&section=header&text=StanlySGY&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=AI%20Vibecodinger%20%C2%B7%20Unified%20AI%20Gateways%20%C2%B7%20Model%20Scheduling%20%26%20Agents&descSize=18&descAlignY=55&descColor=C9D1D9" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=860&height=90&lines=AI+Gateway+Builder;OpenAI-Compatible+API;Model+Routing+%26+Account+Scheduling;Agent+Workflow+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=C77DFF&center=true&vCenter=true&width=860&height=90&lines=AI+Vibecodinger;Building+Unified+AI+Gateways;Model+Scheduling+%26+Agents;OpenAI-Compatible+Infrastructure" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=StanlySGY&style=for-the-badge&color=6d28d9" alt="Profile views" />
+<img src="https://img.shields.io/badge/AI%20Gateway-0D1117?style=for-the-badge&logo=cloudflare&logoColor=C77DFF" alt="AI Gateway" />
+<img src="https://img.shields.io/badge/OpenAI%20Compatible-0D1117?style=for-the-badge&logo=openai&logoColor=10B981" alt="OpenAI Compatible" />
+<img src="https://img.shields.io/badge/Agent%20Workflow-0D1117?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="Agent Workflow" />
 
 </div>
 
@@ -17,6 +20,8 @@
 <div align="center">
 
 **AI Gateway Builder** · **OpenAI-Compatible API** · **Model Routing** · **Agent Workflow Automation**
+
+Building useful AI infrastructure, one interface at a time.
 
 把分散的 AI 服务整理成统一、稳定、可部署、可接入的开发者基础设施。
 
@@ -76,22 +81,30 @@ LLM Services → OpenAI-Compatible API → Gateway / Proxy / Agent Tooling
 <tr>
 <td width="50%">
 
-### [mineru-batch](https://github.com/StanlySGY/mineru-batch)
+<h3 align="center"><a href="https://github.com/StanlySGY/mineru-batch">mineru-batch</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/mineru-batch?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/forks/StanlySGY/mineru-batch?style=for-the-badge&color=C77DFF&labelColor=0D1117" alt="forks" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/mineru-batch?style=for-the-badge&color=4ADE80&labelColor=0D1117" alt="language" />
+</p>
 
 基于 MinerU 的批量 PDF 解析工作流，面向文档处理和批量解析场景。
-
-![Stars](https://img.shields.io/github/stars/StanlySGY/mineru-batch?style=social) ![Vue](https://img.shields.io/badge/Vue-4ADE80?style=flat-square)
 
 `PDF` `MinerU` `batch-workflow`
 
 </td>
 <td width="50%">
 
-### [LegalDocGen](https://github.com/StanlySGY/LegalDocGen)
+<h3 align="center"><a href="https://github.com/StanlySGY/LegalDocGen">LegalDocGen</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/LegalDocGen?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/forks/StanlySGY/LegalDocGen?style=for-the-badge&color=C77DFF&labelColor=0D1117" alt="forks" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/LegalDocGen?style=for-the-badge&color=FACC15&labelColor=0D1117" alt="language" />
+</p>
 
 法律文书生成平台，面向结构化输入、模板生成和文档自动化。
-
-![Stars](https://img.shields.io/github/stars/StanlySGY/LegalDocGen?style=social) ![Python](https://img.shields.io/badge/Python-FACC15?style=flat-square)
 
 `legal-tech` `document-generation` `Python`
 
@@ -109,7 +122,12 @@ LLM Services → OpenAI-Compatible API → Gateway / Proxy / Agent Tooling
 <tr>
 <td width="50%">
 
-### [axonhub](https://github.com/StanlySGY/axonhub)
+<h3 align="center"><a href="https://github.com/StanlySGY/axonhub">axonhub</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/axonhub?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/axonhub?style=for-the-badge&color=38BDF8&labelColor=0D1117" alt="language" />
+</p>
 
 统一 AI 网关，兼容 OpenAI、Anthropic、Gemini 与 AI SDK。
 
@@ -118,7 +136,12 @@ LLM Services → OpenAI-Compatible API → Gateway / Proxy / Agent Tooling
 </td>
 <td width="50%">
 
-### [grok2api](https://github.com/StanlySGY/grok2api_new)
+<h3 align="center"><a href="https://github.com/StanlySGY/grok2api_new">grok2api</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/grok2api_new?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/grok2api_new?style=for-the-badge&color=FACC15&labelColor=0D1117" alt="language" />
+</p>
 
 将 Grok 网页端能力转换为 OpenAI 兼容 API。
 
@@ -129,7 +152,12 @@ LLM Services → OpenAI-Compatible API → Gateway / Proxy / Agent Tooling
 <tr>
 <td width="50%">
 
-### [gemini-business2api](https://github.com/StanlySGY/gemini-business2api)
+<h3 align="center"><a href="https://github.com/StanlySGY/gemini-business2api">gemini-business2api</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/gemini-business2api?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/gemini-business2api?style=for-the-badge&color=FACC15&labelColor=0D1117" alt="language" />
+</p>
 
 Gemini Business 转 OpenAI 兼容 API，支持多账号负载均衡。
 
@@ -138,7 +166,12 @@ Gemini Business 转 OpenAI 兼容 API，支持多账号负载均衡。
 </td>
 <td width="50%">
 
-### [ds2api](https://github.com/StanlySGY/ds2api)
+<h3 align="center"><a href="https://github.com/StanlySGY/ds2api">ds2api</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/ds2api?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/ds2api?style=for-the-badge&color=38BDF8&labelColor=0D1117" alt="language" />
+</p>
 
 DeepSeek 客户端转 OpenAI 兼容 API，支持 Vercel / Docker 部署。
 
@@ -149,7 +182,12 @@ DeepSeek 客户端转 OpenAI 兼容 API，支持 Vercel / Docker 部署。
 <tr>
 <td width="50%">
 
-### [assistant-2api](https://github.com/StanlySGY/assistant-2api)
+<h3 align="center"><a href="https://github.com/StanlySGY/assistant-2api">assistant-2api</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/assistant-2api?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/assistant-2api?style=for-the-badge&color=FACC15&labelColor=0D1117" alt="language" />
+</p>
 
 assistant-ui.com 转 OpenAI 兼容 API，支持流式输出、Tool Calling 与视觉能力。
 
@@ -158,7 +196,12 @@ assistant-ui.com 转 OpenAI 兼容 API，支持流式输出、Tool Calling 与�
 </td>
 <td width="50%">
 
-### [Codex-Manager](https://github.com/StanlySGY/Codex-Manager)
+<h3 align="center"><a href="https://github.com/StanlySGY/Codex-Manager">Codex-Manager</a></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/StanlySGY/Codex-Manager?style=for-the-badge&color=9D4EDD&labelColor=0D1117" alt="stars" />
+  <img src="https://img.shields.io/github/languages/top/StanlySGY/Codex-Manager?style=for-the-badge&color=F97316&labelColor=0D1117" alt="language" />
+</p>
 
 Codex CLI 账号池管理与自动切换工具。
 
@@ -174,7 +217,7 @@ Codex CLI 账号池管理与自动切换工具。
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,vue,go,rust,docker,vercel,cloudflare,linux,github,git" />
+<img src="https://skillicons.dev/icons?i=python,docker,vue,ts,go,rust,linux,cloudflare,vercel,github,git&theme=dark" />
 
 <br/>
 <br/>
@@ -188,6 +231,21 @@ Codex CLI 账号池管理与自动切换工具。
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F97316)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1.5" />
+
+## Data Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=StanlySGY&theme=react-dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF" alt="GitHub activity graph" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=StanlySGY&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=C9D1D9&dates=6B7280" alt="GitHub streak" />
 
 </div>
 
