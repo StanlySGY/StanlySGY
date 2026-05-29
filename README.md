@@ -85,18 +85,6 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
 
 <br />
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<br />
-
 ## 🌟 Open-Source Showcases
 
 <div align="center">
@@ -115,6 +103,7 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
       </td>
     </tr>
     <tr>
+      <!-- 第一排说明 -->
       <td align="left">🔑 <i>High-performance multi-model routing & dispatch center.</i></td>
       <td align="left">⚡️ <i>Seamless API converter designed for next-gen Grok models.</i></td>
     </tr>
@@ -133,6 +122,7 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
       </td>
     </tr>
     <tr>
+      <!-- 第二排说明 -->
       <td align="left">📈 <i>Enterprise-grade API channel adaptor for Gemini Business.</i></td>
       <td align="left">🛡️ <i>Intelligent workspace supervisor and model dispatcher.</i></td>
     </tr>
