@@ -14,7 +14,17 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
 
 - 🔭 **Currently exploring:** Next-generation AI router and high-performance proxies.
 - 💬 **Ask me about:** API translation, model scaling, and performance optimization.
-- 📧 **Get in touch:** [zhiduoxing18@163.com](mailto:zhiduoxing18@163.com)
+
+<!-- 优雅的 Shields.io 胶囊徽章 -->
+<p align="left">
+  <a href="mailto:zhiduoxing18@163.com">
+    <img src="https://img.shields.io/badge/Email-zhiduoxing18%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/StanlySGY">
+    <img src="https://img.shields.io/github/followers/StanlySGY?label=Followers&style=flat-square&color=7aa2f7" alt="Followers" />
+  </a>
+</p>
 
 ---
 
@@ -83,35 +93,47 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
 
 ## 🌟 Open-Source Showcases
 
-<p align="center">
-  <a href="https://github.com/StanlySGY/axonhub">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=axonhub&theme=tokyonight&border_radius=10&hide_border=true" alt="axonhub card" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/StanlySGY/grok2api_new">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=grok2api_new&theme=tokyonight&border_radius=10&hide_border=true" alt="grok2api_new card" />
-  </a>
-</p>
-<p align="center" style="margin-top: -10px; margin-bottom: 20px;">
-  <span style="display: inline-block; width: 390px; text-align: left; font-size: 13px;">🔑 <i>High-performance multi-model routing & dispatch center.</i></span>
-  &nbsp;&nbsp;
-  <span style="display: inline-block; width: 390px; text-align: left; font-size: 13px;">⚡️ <i>Seamless API converter designed for next-gen Grok models.</i></span>
-</p>
-
-<p align="center">
-  <a href="https://github.com/StanlySGY/gemini-business2api">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=gemini-business2api&theme=tokyonight&border_radius=10&hide_border=true" alt="gemini-business2api card" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/StanlySGY/Codex-Manager">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=Codex-Manager&theme=tokyonight&border_radius=10&hide_border=true" alt="Codex-Manager card" />
-  </a>
-</p>
-<p align="center" style="margin-top: -10px; margin-bottom: 20px;">
-  <span style="display: inline-block; width: 390px; text-align: left; font-size: 13px;">📈 <i>Enterprise-grade API channel adaptor for Gemini Business.</i></span>
-  &nbsp;&nbsp;
-  <span style="display: inline-block; width: 390px; text-align: left; font-size: 13px;">🛡️ <i>Intelligent workspace supervisor and model dispatcher.</i></span>
-</p>
+<div align="center">
+  <table border="0" cellpadding="5">
+    <tr>
+      <!-- 第一排卡片 -->
+      <td>
+        <a href="https://github.com/StanlySGY/axonhub">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=axonhub&theme=tokyonight&border_radius=10&hide_border=true" alt="axonhub card" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/StanlySGY/grok2api_new">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=grok2api_new&theme=tokyonight&border_radius=10&hide_border=true" alt="grok2api_new card" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- 第一排说明：GFM 会让这两个 td 自动与上方的卡片对齐，无需任何 CSS 宽度 -->
+      <td align="left">🔑 <i>High-performance multi-model routing & dispatch center.</i></td>
+      <td align="left">⚡️ <i>Seamless API converter designed for next-gen Grok models.</i></td>
+    </tr>
+    <tr height="10px"></tr> <!-- 稍微增加一些行间距 -->
+    <tr>
+      <!-- 第二排卡片 -->
+      <td>
+        <a href="https://github.com/StanlySGY/gemini-business2api">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=gemini-business2api&theme=tokyonight&border_radius=10&hide_border=true" alt="gemini-business2api card" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/StanlySGY/Codex-Manager">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=StanlySGY&repo=Codex-Manager&theme=tokyonight&border_radius=10&hide_border=true" alt="Codex-Manager card" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- 第二排说明 -->
+      <td align="left">📈 <i>Enterprise-grade API channel adaptor for Gemini Business.</i></td>
+      <td align="left">🛡️ <i>Intelligent workspace supervisor and model dispatcher.</i></td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
