@@ -62,8 +62,8 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-night-view.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-green-infrastructure.svg" />
-    <img alt="github 3d contribution" src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-green-infrastructure.svg" width="85%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-green.svg" />
+    <img alt="github 3d contribution" src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-green.svg" width="85%" />
   </picture>
 </p>
 
