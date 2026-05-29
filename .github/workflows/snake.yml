@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Summary Assets
 
 on:
   schedule:
@@ -14,10 +14,20 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
-      # 使用 Platane/snk 生成贪吃蛇 SVG 动画
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 1. 生成 3D 城市模型
+      - name: Generate 3D Contribution Map
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. 生成贪吃蛇 SVG 动画
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,9 +35,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-      # 将生成的 SVG 推送到单独的 output 分支，保持 main 分支整洁
-      - name: Push github-contribution-grid-snake.svg to the output branch
+
+      # 3. 将 3D 城市模型文件归档复制到 dist 目录中
+      - name: Move 3D contribution files to dist
+        run: |
+          mkdir -p dist/profile-3d-contrib
+          cp -r profile-3d-contrib/* dist/profile-3d-contrib/
+
+      # 4. 一键推送到 output 目标分支
+      - name: Push all generated assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
