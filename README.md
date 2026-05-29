@@ -60,9 +60,15 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
 ## 📊 Developer Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StanlySGY&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" height="195" alt="GitHub Stats" />
+  <!-- 激活了私有仓库统计和全分支统计的超强卡片 -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StanlySGY&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StanlySGY&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=6" height="195" alt="Top Langs" />
+</p>
+
+<!-- 霓虹波动贡献曲线图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanlySGY&theme=tokyonight" width="100%" alt="GitHub Activity Graph" />
 </p>
 
 <br />
@@ -109,11 +115,10 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
       </td>
     </tr>
     <tr>
-      <!-- 第一排说明：GFM 会让这两个 td 自动与上方的卡片对齐，无需任何 CSS 宽度 -->
       <td align="left">🔑 <i>High-performance multi-model routing & dispatch center.</i></td>
       <td align="left">⚡️ <i>Seamless API converter designed for next-gen Grok models.</i></td>
     </tr>
-    <tr height="10px"></tr> <!-- 稍微增加一些行间距 -->
+    <tr height="10px"></tr>
     <tr>
       <!-- 第二排卡片 -->
       <td>
@@ -128,7 +133,6 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
       </td>
     </tr>
     <tr>
-      <!-- 第二排说明 -->
       <td align="left">📈 <i>Enterprise-grade API channel adaptor for Gemini Business.</i></td>
       <td align="left">🛡️ <i>Intelligent workspace supervisor and model dispatcher.</i></td>
     </tr>
