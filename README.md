@@ -48,12 +48,10 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
 
 ## 📊 Developer Metrics
 
-<p align="center">
-  <!-- 三卡并列，火力全开 -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <!-- 三卡并列，火力全开 (支持移动端自适应折行) -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StanlySGY&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StanlySGY&theme=tokyonight&hide_border=true&border_radius=10" height="195" alt="GitHub Streak Stats" />
-  &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StanlySGY&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=6" height="195" alt="Top Langs" />
 </p>
 
@@ -73,6 +71,15 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-night-view.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-green.svg" />
     <img alt="github 3d contribution" src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/profile-3d-contrib/profile-green.svg" width="85%" />
+  </picture>
+</p>
+
+<!-- 贪吃蛇贡献网格动画 (自适应主题配色) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/output/github-contribution-grid-snake.svg" width="85%" />
   </picture>
 </p>
 
