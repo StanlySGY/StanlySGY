@@ -31,43 +31,29 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
   <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/terminal.svg" width="90%" alt="AxonHub daemon terminal boot animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/glowing-divider.svg" width="100%" alt="glowing divider" />
+</p>
 
 ## 🛠️ Capabilities & Tech Stack
 
-<table align="center" border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="right"><b>🤖 AI & Gateways</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/LLM_Gateway-7aa2f7?style=flat-square&logo=openai&logoColor=white" alt="LLM Gateway" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>💻 Languages & Core</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>⚙️ Infra & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-    </td>
-  </tr>
-</table>
+<!-- 💫 无缝滚动技术栈大牌 (炫酷爆点) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/tech-marquee.svg" width="100%" alt="Seamless Scrolling Tech Stack" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/glowing-divider.svg" width="100%" alt="glowing divider" />
+</p>
 
 ## 📊 Developer Metrics
 
 <p align="center">
-  <!-- 激活了私有仓库统计和全分支统计的超强卡片 -->
+  <!-- 三卡并列，火力全开 -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=StanlySGY&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="GitHub Stats" />
-  &nbsp;&nbsp;
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StanlySGY&theme=tokyonight&hide_border=true&border_radius=10" height="195" alt="GitHub Streak Stats" />
+  &nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StanlySGY&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=6" height="195" alt="Top Langs" />
 </p>
 
@@ -76,7 +62,9 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=StanlySGY&theme=tokyonight" width="100%" alt="GitHub Activity Graph" />
 </p>
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/glowing-divider.svg" width="100%" alt="glowing divider" />
+</p>
 
 ## 🪐 3D Contribution City
 
@@ -88,7 +76,9 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
   </picture>
 </p>
 
-<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/glowing-divider.svg" width="100%" alt="glowing divider" />
+</p>
 
 ## 🌟 Open-Source Showcases
 

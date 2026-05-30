@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="48" viewBox="0 0 680 48">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;700&amp;display=swap');
+      
+      .badge-text {
+        font-family: 'Fira Code', monospace;
+        font-weight: 700;
+        font-size: 13px;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      
+      .scroll-container {
+        animation: scroll 22s linear infinite;
+      }
+      
+      @keyframes scroll {
+        0% { transform: translate3d(0, 0, 0); }
+        100% { transform: translate3d(-955px, 0, 0); }
+      }
+      
+      /* 鼠标悬停时稍微减速，增加交互感 */
+      svg:hover .scroll-container {
+        animation-play-state: paused;
+      }
+    </style>
+    
+    <!-- 赛博霓虹外发光效果 -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- 背景：极简透明或全黑融合 -->
+  <rect width="680" height="48" fill="none" />
+
+  <!-- 无缝滚动层 -->
+  <g class="scroll-container">
+    <!-- ============== 第一个完整循环组合 ============== -->
+    <g id="set-1" transform="translate(0, 10)">
+      <!-- Python -->
+      <g transform="translate(0, 0)">
+        <rect width="90" height="28" rx="8" fill="#1e2235" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)" />
+        <text x="45" y="15" fill="#3776ab" class="badge-text">Python</text>
+      </g>
+      <!-- FastAPI -->
+      <g transform="translate(105, 0)">
+        <rect width="95" height="28" rx="8" fill="#1a2b32" stroke="#009688" stroke-width="1.5" filter="url(#glow)" />
+        <text x="47.5" y="15" fill="#009688" class="badge-text">FastAPI</text>
+      </g>
+      <!-- TypeScript -->
+      <g transform="translate(215, 0)">
+        <rect width="110" height="28" rx="8" fill="#1c2b3e" stroke="#007acc" stroke-width="1.5" filter="url(#glow)" />
+        <text x="55" y="15" fill="#007acc" class="badge-text">TypeScript</text>
+      </g>
+      <!-- Node.js -->
+      <g transform="translate(340, 0)">
+        <rect width="95" height="28" rx="8" fill="#1e2d27" stroke="#43853d" stroke-width="1.5" filter="url(#glow)" />
+        <text x="47.5" y="15" fill="#43853d" class="badge-text">Node.js</text>
+      </g>
+      <!-- Docker -->
+      <g transform="translate(450, 0)">
+        <rect width="90" height="28" rx="8" fill="#1c2d40" stroke="#2496ed" stroke-width="1.5" filter="url(#glow)" />
+        <text x="45" y="15" fill="#2496ed" class="badge-text">Docker</text>
+      </g>
+      <!-- PostgreSQL -->
+      <g transform="translate(555, 0)">
+        <rect width="110" height="28" rx="8" fill="#1e283e" stroke="#4169e1" stroke-width="1.5" filter="url(#glow)" />
+        <text x="55" y="15" fill="#4169e1" class="badge-text">PostgreSQL</text>
+      </g>
+      <!-- Redis -->
+      <g transform="translate(680, 0)">
+        <rect width="80" height="28" rx="8" fill="#2d222b" stroke="#dc382d" stroke-width="1.5" filter="url(#glow)" />
+        <text x="40" y="15" fill="#dc382d" class="badge-text">Redis</text>
+      </g>
+      <!-- Linux -->
+      <g transform="translate(775, 0)">
+        <rect width="80" height="28" rx="8" fill="#262a35" stroke="#acb0be" stroke-width="1.5" filter="url(#glow)" />
+        <text x="40" y="15" fill="#acb0be" class="badge-text">Linux</text>
+      </g>
+      <!-- Git -->
+      <g transform="translate(870, 0)">
+        <rect width="70" height="28" rx="8" fill="#2d252b" stroke="#f05032" stroke-width="1.5" filter="url(#glow)" />
+        <text x="35" y="15" fill="#f05032" class="badge-text">Git</text>
+      </g>
+    </g>
+
+    <!-- ============== 第二个镜像副本组合 (偏移 955px) ============== -->
+    <g id="set-2" transform="translate(955, 10)">
+      <!-- Python -->
+      <g transform="translate(0, 0)">
+        <rect width="90" height="28" rx="8" fill="#1e2235" stroke="#3776ab" stroke-width="1.5" filter="url(#glow)" />
+        <text x="45" y="15" fill="#3776ab" class="badge-text">Python</text>
+      </g>
+      <!-- FastAPI -->
+      <g transform="translate(105, 0)">
+        <rect width="95" height="28" rx="8" fill="#1a2b32" stroke="#009688" stroke-width="1.5" filter="url(#glow)" />
+        <text x="47.5" y="15" fill="#009688" class="badge-text">FastAPI</text>
+      </g>
+      <!-- TypeScript -->
+      <g transform="translate(215, 0)">
+        <rect width="110" height="28" rx="8" fill="#1c2b3e" stroke="#007acc" stroke-width="1.5" filter="url(#glow)" />
+        <text x="55" y="15" fill="#007acc" class="badge-text">TypeScript</text>
+      </g>
+      <!-- Node.js -->
+      <g transform="translate(340, 0)">
+        <rect width="95" height="28" rx="8" fill="#1e2d27" stroke="#43853d" stroke-width="1.5" filter="url(#glow)" />
+        <text x="47.5" y="15" fill="#43853d" class="badge-text">Node.js</text>
+      </g>
+      <!-- Docker -->
+      <g transform="translate(450, 0)">
+        <rect width="90" height="28" rx="8" fill="#1c2d40" stroke="#2496ed" stroke-width="1.5" filter="url(#glow)" />
+        <text x="45" y="15" fill="#2496ed" class="badge-text">Docker</text>
+      </g>
+      <!-- PostgreSQL -->
+      <g transform="translate(555, 0)">
+        <rect width="110" height="28" rx="8" fill="#1e283e" stroke="#4169e1" stroke-width="1.5" filter="url(#glow)" />
+        <text x="55" y="15" fill="#4169e1" class="badge-text">PostgreSQL</text>
+      </g>
+      <!-- Redis -->
+      <g transform="translate(680, 0)">
+        <rect width="80" height="28" rx="8" fill="#2d222b" stroke="#dc382d" stroke-width="1.5" filter="url(#glow)" />
+        <text x="40" y="15" fill="#dc382d" class="badge-text">Redis</text>
+      </g>
+      <!-- Linux -->
+      <g transform="translate(775, 0)">
+        <rect width="80" height="28" rx="8" fill="#262a35" stroke="#acb0be" stroke-width="1.5" filter="url(#glow)" />
+        <text x="40" y="15" fill="#acb0be" class="badge-text">Linux</text>
+      </g>
+      <!-- Git -->
+      <g transform="translate(870, 0)">
+        <rect width="70" height="28" rx="8" fill="#2d252b" stroke="#f05032" stroke-width="1.5" filter="url(#glow)" />
+        <text x="35" y="15" fill="#f05032" class="badge-text">Git</text>
+      </g>
+    </g>
+  </g>
+</svg>
