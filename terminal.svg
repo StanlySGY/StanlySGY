@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="340" viewBox="0 0 680 340">
+  <defs>
+    <!-- 霓虹外发光滤镜 -->
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;display=swap');
+      
+      .terminal {
+        font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace;
+        font-size: 14px;
+        fill: #c0caf5; /* Tokyo Night Font Color */
+      }
+      
+      /* 每一个终端行的 staggered 动画 */
+      .line {
+        opacity: 0;
+        animation: fadeIn 0.2s forwards;
+      }
+      
+      .prompt-user { fill: #73daca; font-weight: bold; } /* Green */
+      .prompt-host { fill: #b4f9f8; } /* Cyan */
+      .prompt-dir { fill: #7aa2f7; } /* Blue */
+      
+      .sys-info { fill: #7982a9; } /* Grayish */
+      .sys-success { fill: #9ece6a; filter: url(#glow); } /* Glowing Green */
+      .sys-warning { fill: #e0af68; } /* Yellow */
+      .sys-arrow { fill: #bb9af3; } /* Purple */
+      .sys-ready { fill: #2ac3de; font-weight: bold; filter: url(#glow); } /* Bright Blue */
+
+      /* 闪烁光标 */
+      .cursor {
+        fill: #c0caf5;
+        animation: blink 0.8s infinite;
+      }
+
+      /* 动画定义时间轴 */
+      .l1 { animation-delay: 0.5s; }
+      .l2 { animation-delay: 1.3s; }
+      .l3 { animation-delay: 2.1s; }
+      .l4 { animation-delay: 2.8s; }
+      .l5 { animation-delay: 3.5s; }
+      .l6 { animation-delay: 4.2s; }
+      .l7 { animation-delay: 4.9s; }
+      .l8 { animation-delay: 5.6s; }
+      .l9 { animation-delay: 6.3s; }
+      .l10 { animation-delay: 7.0s; }
+
+      @keyframes fadeIn {
+        to { opacity: 1; }
+      }
+      
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- 终端背景窗口，Tokyo Night 暗色系风格 -->
+  <rect width="680" height="340" rx="12" fill="#1a1b26" stroke="#414868" stroke-width="1.5" />
+  
+  <!-- 苹果风格窗口控制按钮 (左上角) -->
+  <circle cx="25" cy="22" r="6" fill="#f7768e" /> <!-- 红 -->
+  <circle cx="45" cy="22" r="6" fill="#e0af68" /> <!-- 黄 -->
+  <circle cx="65" cy="22" r="6" fill="#9ece6a" /> <!-- 绿 -->
+  
+  <!-- 窗口标题 -->
+  <text x="340" y="26" font-family="'Fira Code', monospace" font-size="12" fill="#565f89" text-anchor="middle">sgy@axonhub: ~ (axonhub-daemon)</text>
+
+  <!-- 终端内容区 -->
+  <g class="terminal" transform="translate(25, 45)">
+    <!-- Line 1: 执行启动命令 -->
+    <g class="line l1">
+      <text x="0" y="25">
+        <tspan class="prompt-user">sgy</tspan>
+        <tspan fill="#565f89">@</tspan>
+        <tspan class="prompt-host">axonhub</tspan>
+        <tspan fill="#565f89">:</tspan>
+        <tspan class="prompt-dir">~</tspan>
+        <tspan fill="#c0caf5">$ python -m axonhub.core --daemon</tspan>
+      </text>
+    </g>
+
+    <!-- Line 2: 系统初始化 -->
+    <g class="line l2">
+      <text x="0" y="50" class="sys-info">[sys] Initializing AxonHub Model Scheduling Daemon...</text>
+    </g>
+
+    <!-- Line 3: 检测 LLM 接口 -->
+    <g class="line l3">
+      <text x="0" y="75" class="sys-info">[sys] Detecting active LLM API gateway channels...</text>
+    </g>
+
+    <!-- Line 4: 挂载 Grok-2 转换路由 -->
+    <g class="line l4">
+      <text x="0" y="100">
+        <tspan class="sys-arrow">  ➔ </tspan>
+        <tspan fill="#c0caf5">channel: </tspan>
+        <tspan class="sys-ready">grok2api_new</tspan>
+        <tspan fill="#565f89"> ............ </tspan>
+        <tspan class="sys-success">[ACTIVE]</tspan>
+      </text>
+    </g>
+
+    <!-- Line 5: 挂载 Gemini Business 路由 -->
+    <g class="line l5">
+      <text x="0" y="125">
+        <tspan class="sys-arrow">  ➔ </tspan>
+        <tspan fill="#c0caf5">channel: </tspan>
+        <tspan class="sys-ready">gemini-business2api</tspan>
+        <tspan fill="#565f89"> .... </tspan>
+        <tspan class="sys-success">[ACTIVE]</tspan>
+      </text>
+    </g>
+
+    <!-- Line 6: 挂载 Codex-Manager 路由 -->
+    <g class="line l6">
+      <text x="0" y="150">
+        <tspan class="sys-arrow">  ➔ </tspan>
+        <tspan fill="#c0caf5">channel: </tspan>
+        <tspan class="sys-ready">Codex-Manager</tspan>
+        <tspan fill="#565f89"> ........ </tspan>
+        <tspan class="sys-success">[ACTIVE]</tspan>
+      </text>
+    </g>
+
+    <!-- Line 7: 调度器与负载均衡加载 -->
+    <g class="line l7">
+      <text x="0" y="175" class="sys-info">[sys] Loading intelligent proxy dispatching policies...</text>
+    </g>
+
+    <!-- Line 8: 绑定成功提示 -->
+    <g class="line l8">
+      <text x="0" y="200" class="sys-success">[ready] AxonHub Core successfully bound to 0.0.0.0:8000</text>
+    </g>
+
+    <!-- Line 9: 运行时性能监控 -->
+    <g class="line l9">
+      <text x="0" y="225">
+        <tspan class="sys-warning">[stats]</tspan>
+        <tspan fill="#c0caf5"> Proxies: </tspan>
+        <tspan fill="#9ece6a">OK (200/200)</tspan>
+        <tspan fill="#c0caf5"> | RTT: </tspan>
+        <tspan fill="#9ece6a">14ms</tspan>
+        <tspan fill="#c0caf5"> | CPU: </tspan>
+        <tspan fill="#9ece6a">1.2%</tspan>
+      </text>
+    </g>
+
+    <!-- Line 10: 闪烁输入光标 -->
+    <g class="line l10">
+      <text x="0" y="255">
+        <tspan class="prompt-user">sgy</tspan>
+        <tspan fill="#565f89">@</tspan>
+        <tspan class="prompt-host">axonhub</tspan>
+        <tspan fill="#565f89">:</tspan>
+        <tspan class="prompt-dir">~</tspan>
+        <tspan fill="#c0caf5">$ </tspan>
+        <rect class="cursor" x="145" y="242" width="8" height="15" />
+      </text>
+    </g>
+  </g>
+</svg>

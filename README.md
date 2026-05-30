@@ -26,6 +26,11 @@ I am an AI enthusiast & Full-stack developer building highly practical tools aro
   </a>
 </p>
 
+<!-- 📟 实时黑客终端启动动画 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StanlySGY/StanlySGY/main/terminal.svg" width="90%" alt="AxonHub daemon terminal boot animation" />
+</p>
+
 ---
 
 ## 🛠️ Capabilities & Tech Stack
